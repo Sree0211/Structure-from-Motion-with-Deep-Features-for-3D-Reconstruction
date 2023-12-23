@@ -1,0 +1,4 @@
+/Users/sreenathswaminathan/Desktop/Uni-Docs/Autonomous fahren kurs/CV Project/Structure-from-Motion-with-Deep-Features-for-3D-Reconstruction/build/CMakeFiles/doxygen-docs.dir
+/Users/sreenathswaminathan/Desktop/Uni-Docs/Autonomous fahren kurs/CV Project/Structure-from-Motion-with-Deep-Features-for-3D-Reconstruction/build/CMakeFiles/sfm_3d.dir
+/Users/sreenathswaminathan/Desktop/Uni-Docs/Autonomous fahren kurs/CV Project/Structure-from-Motion-with-Deep-Features-for-3D-Reconstruction/build/CMakeFiles/edit_cache.dir
+/Users/sreenathswaminathan/Desktop/Uni-Docs/Autonomous fahren kurs/CV Project/Structure-from-Motion-with-Deep-Features-for-3D-Reconstruction/build/CMakeFiles/rebuild_cache.dir

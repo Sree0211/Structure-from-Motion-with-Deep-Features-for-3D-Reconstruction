@@ -1,0 +1,21 @@
+############################################
+#### Dense Feature Extraction settings #####
+############################################
+
+dataset: aachen_daynight
+save_roots:
+  feature_data: /Users/sreenathswaminathan/Desktop/Uni-Docs/Autonomous fahren kurs/CV Project/Structure-from-Motion-with-Deep-Features-for-3D-Reconstruction/features_output
+
+####################################
+#### dataset specific settings #####
+####################################
+
+aachen_daynight:
+  images_root: /Users/sreenathswaminathan/Desktop/Uni-Docs/Autonomous fahren kurs/CV Project/Structure-from-Motion-with-Deep-Features-for-3D-Reconstruction/aachen_v1_1/images_upright/sequences/nexus4_sequences/sequence_1
+
+
+hydra:
+  job_logging:
+    save_dir: null
+    verbosity: 0
+    chdir: true
